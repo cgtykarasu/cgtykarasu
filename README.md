@@ -12,11 +12,9 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
-<img align="bottom" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="480" height="144" />
-<a href="https://twitter.com/cgtykarasu">
 
+<img align="bottom" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="500" height="100" />
 
-<br />
 
 Hi, I'm Çağatay KARASU, 🚀 from TURKEY.
 
