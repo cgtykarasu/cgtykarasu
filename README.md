@@ -16,5 +16,5 @@
 
 Hi, I'm Çağatay KARASU, 🚀 from TURKEY.
 
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="200" height="500" />
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="200" height="400" />
  
