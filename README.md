@@ -12,6 +12,9 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
+<img align="bottom" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="480" height="144" />
+<a href="https://twitter.com/cgtykarasu">
+
 
 <br />
 
