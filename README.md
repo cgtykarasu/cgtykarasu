@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.visitor-badge
+[![Visits Badge](https://badges.pufler.dev/visits/cgtykarasu/git-badges)](https://badges.pufler.dev)
 
 <!--
 **cgtykarasu/cgtykarasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
