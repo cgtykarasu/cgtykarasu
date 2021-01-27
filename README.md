@@ -1,22 +1,20 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.visitor-badge)
+<a href="https://twitter.com/cgtykarasu">
+  <img align="left" alt="Çağatay KARASU | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/cgtykarasu/">
+  <img align="left" alt="Çağatay KARASU's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/cgtykarasu">
+  <img align="left" alt="Çağatay KARASU's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-![Çağatay KARASU's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgtykarasu&show_icons=true&theme=radical)
+![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
 
+<br />
 
+Hi, I'm Çağatay KARASU, 🚀 from TURKEY.
 
-<!--
-**cgtykarasu/cgtykarasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="282.768" height="550" />
+ 
