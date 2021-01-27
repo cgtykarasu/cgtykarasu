@@ -4,7 +4,7 @@
 <a href="https://twitter.com/cgtykarasu">
   <img align="left" alt="Çağatay KARASU | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/cgtykarasu/">
+<a href="https://www.linkedin.com/in/cagataykarasu/">
   <img align="left" alt="Çağatay KARASU's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/cgtykarasu">
