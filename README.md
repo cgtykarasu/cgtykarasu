@@ -38,6 +38,13 @@
   <img align="bottom" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="450" height="120" />
 </div>
 
+<p align="center">
+<a href="https://github.com/cgtykarasu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cgtykarasu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cgtykarasu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <div align="center">
   <i>Follow me around the web:</i><br>
