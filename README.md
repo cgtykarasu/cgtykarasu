@@ -1,3 +1,9 @@
+<div align="center" width="50">
+
+<img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/asd.gif" alt="Welcome!" width="300"/>
+
+</div>
+
 <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/Untitled.png" width="500" height="251" />
 
 <a href="https://twitter.com/cgtykarasu">
