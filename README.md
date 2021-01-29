@@ -1,5 +1,6 @@
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+    ![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
     <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/gthbGif.gif" width="580px"></h2>
 </div>
 
@@ -9,7 +10,6 @@
 </div>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
