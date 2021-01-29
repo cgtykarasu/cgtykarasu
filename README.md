@@ -1,4 +1,4 @@
-### Hey there <img align="middle" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="myimage" width="25px" />
+### Hey there <img align="" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
 <img align="top" src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/Untitled.png" width="" height="" />
 
