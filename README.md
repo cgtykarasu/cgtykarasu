@@ -1,6 +1,6 @@
+![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
-    ![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
     <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/gthbGif.gif" width="580px"></h2>
 </div>
 
