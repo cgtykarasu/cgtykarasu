@@ -19,8 +19,9 @@
 <a href="https://open.spotify.com/user/cgtykarasu">
   <img align="left" alt="Çağatay KARASU's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-  
-
+  </div>
+ 
+ <div align="center">
 ![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
 </div>
 
