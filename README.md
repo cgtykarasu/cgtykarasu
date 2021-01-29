@@ -1,7 +1,5 @@
-<div align="center" width="50">
-
-<img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/asd.gif" alt="Welcome!" width="300"/>
-
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/gthbGif.gif" width="30px"></h2>
 </div>
 
 <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/Untitled.png" width="500" height="251" />
