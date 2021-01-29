@@ -2,6 +2,9 @@
 
 <img draggable=”false” border=”0″ src=”https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/Untitled.png” >
 
+.template-blog .blog-meta,.big-preview.single-small { pointer-events: none; }
+
+
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="200" height="400" />
 <a href="https://twitter.com/cgtykarasu">
   <img align="left" alt="Çağatay KARASU | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
