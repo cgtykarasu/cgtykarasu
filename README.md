@@ -3,7 +3,9 @@
   <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/gthbGif.gif" width="580px"></h2>
 </div>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/Untitled.png" width="500" height="251" />
+  </div>
 
 <a href="https://twitter.com/cgtykarasu">
   <img align="left" alt="Çağatay KARASU | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
