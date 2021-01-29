@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="top" alt="GIF" src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/Untitled-3.png" width="" height="" />
+
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="200" height="400" />
 <a href="https://twitter.com/cgtykarasu">
   <img align="left" alt="Çağatay KARASU | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
