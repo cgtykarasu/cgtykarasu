@@ -8,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/Untitled.png" width="500" height="251" />
 </div>
 
-<div align="center">
+
   ![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
-</div>
+
   
 <div align="center">
   <img align="bottom" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="450" height="120" />
