@@ -33,6 +33,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+
   
 <div align="center">
   <img align="bottom" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="450" height="120" />
