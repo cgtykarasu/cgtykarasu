@@ -54,7 +54,6 @@
   <a href="https://open.spotify.com/user/cgtykarasu" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
                   
-[<img src="https://now-playing-cgtykarasu.vercel.app/api/spotify-playing" alt="Çağatay Karasu Spotify Playing" width="350" />](https://open.spotify.com/user/cgtykarasu)
 
 
 
