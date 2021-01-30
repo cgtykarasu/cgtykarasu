@@ -54,8 +54,7 @@
   <a href="https://open.spotify.com/user/cgtykarasu" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
                   
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cgtykarasu&count={count})
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cgtykarasu&width={width})
 
 
 
