@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)/
+![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)<br>
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 <div align="center">
