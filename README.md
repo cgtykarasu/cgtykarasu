@@ -1,4 +1,6 @@
-![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
+![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)/
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
     <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/gthbGif.gif" width="580px"></h2>
