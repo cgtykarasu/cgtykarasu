@@ -9,7 +9,7 @@
 
 <div align="center">  
   <img src="https://raw.githubusercontent.com/cgtykarasu/cgtykarasu/main/Untitled.png" width="500" height="251" />
-</div>
+</div><br>
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
