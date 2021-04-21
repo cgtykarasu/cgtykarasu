@@ -1,4 +1,5 @@
-![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)<br>
+![](https://visitor-badge.glitch.me/badge?page_id=cgtykarasu.cgtykarasu)
+![](https://komarev.com/ghpvc/?username=cgtykarasu&color=yellowgreen)<br>
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 <div align="center">
